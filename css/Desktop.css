@@ -1,0 +1,13 @@
+.section-body {
+    max-width: 144rem;
+
+}
+
+/* ------------------ */
+
+.tags {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 115.2rem;
+}

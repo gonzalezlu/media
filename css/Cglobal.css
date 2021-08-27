@@ -1,0 +1,38 @@
+*{
+    margin:0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+
+}
+
+html{
+    font-family: monospace;
+    font-size: 10px;
+}
+
+:root{
+    /*  Paleta de Colores  */
+    --morado: #3F598C;
+    --magenta: #6C718C;
+    --lila: #5075BF;
+    --rosa: #82B0D9;
+
+
+    --h1: 25rem;
+    --h2: 16rem;
+    --h3: 14rem; 
+    --parrafo: 1.5rem; 
+}
+
+/*estructura de la secciones*/
+.background-section {
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+}
+.section-body{
+    max-width: 130rem;
+    height: auto;
+    margin: auto;
+}
